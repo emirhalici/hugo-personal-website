@@ -6,7 +6,7 @@ author = "Emir Halıcı"
 
 Merhaba! Ben **Emir**. 3. sınıf Bilgisayar Mühendisliği öğrencisiyim ve Flutter uygulamaları yazıyorum.
 
-<button type="button" class="btn">[CV İndir](/emirhalici_cv_turkce.pdf)</button>
+<button type="button" class="btn">[CV İndir](https://raw.githubusercontent.com/emirhalici/hugo-personal-website/main/emirhalici_cv_turkce.pdf)</button>
 
 Hakkımda daha fazlası için [Github](https://github.com/emirhalici/) hesabıma, [Linkedin](https://www.linkedin.com/in/emirhalici/) hesabıma veya [Medium](https://medium.com/@emirhalici) hesabıma göz atın.
 

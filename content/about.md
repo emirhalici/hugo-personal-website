@@ -6,7 +6,7 @@ author = "Emir Halıcı"
 
 Hi! I'm **Emir**. I am a 3rd year Computer Engineering student at Ankara University. I also develop Flutter apps.
 
-<button type="button" class="btn">[Download CV](/emirhalici_cv_english.pdf)</button>
+<button type="button" class="btn">[Download CV](https://raw.githubusercontent.com/emirhalici/hugo-personal-website/main/emirhalici_cv_english.pdf)</button>
 
 To see more about me check out my [Github](https://github.com/emirhalici/) account, [Linkedin](https://www.linkedin.com/in/emirhalici/) account or [Medium](https://medium.com/@emirhalici) account.
 
